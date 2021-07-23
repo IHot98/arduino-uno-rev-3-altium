@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAEVGEUE
 
+[GeneratedDocument1]
+DocumentPath=Schematic_library.cmp
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
