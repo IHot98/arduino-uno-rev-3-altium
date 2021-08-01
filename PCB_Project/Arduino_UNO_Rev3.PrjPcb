@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Arduino_UNO_Rev3_schematic.SchDoc
+DocumentPath=..\Arduino UNO Rev 3\Templates\Schematic\[01] - COVER PAGE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -47,14 +47,48 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DTIKWLBQ
+
+[Document2]
+DocumentPath=..\Arduino UNO Rev 3\Templates\Schematic\[02] - BLOCK DIAGRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GOVQVHNV
+
+[Document3]
+DocumentPath=[03] - 28PINS SCHEMATIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOKXPEHO
 
-[Document2]
+[Document4]
 DocumentPath=Arduino_UNO_Rev3_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRKWAUFB
 
-[Document3]
+[Document5]
 DocumentPath=Schematic_library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIHKONAD
 
-[Document4]
+[Document6]
 DocumentPath=Footprint_library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,9 +139,72 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAEVGEUE
 
+[Document7]
+DocumentPath=..\Arduino UNO Rev 3\Templates\Schematic\[04] - REVISION HISTORY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIWPOGFT
+
+[Document8]
+DocumentPath=..\Arduino UNO Rev 3\Templates\Schematic\28Pins_Project_V1I1 Project.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QNWYVDEJ
+
+[Document9]
+DocumentPath=..\Arduino UNO Rev 3\Templates\Schematic\28PinsJobFile.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\28Pins BOM Purcashing-Arduino_UNO_Rev3.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Arduino_UNO_Rev3\Design Rule Check - Arduino_UNO_Rev3_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Schematic_library.cmp
 DItemRevisionGUID=
+
+[Parameter1]
+Name=NotFitted
+Value=NF
 
 [Configuration1]
 Name=Sources
