@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Projekti\github-kraken\arduino uno rev 3-altium\PCB_Project\Arduino_UNO_Rev3_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arduino_uno_rev3_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arduino_uno_rev3_pcb-slotholes.txt|DrillLayers=gtl,gbl

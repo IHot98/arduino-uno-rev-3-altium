@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Projekti\github-kraken\arduino uno rev 3-altium\PCB_Project\Arduino_UNO_Rev3_PCB.PcbDoc
-Date     : 31.7.2021.
-Time     : 17:27:23
+Date     : 1.8.2021.
+Time     : 22:08:57
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -49,8 +49,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (15.24mm,50.8mm) on Top Overlay And Pad J4-10(18.796mm,50.8mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
@@ -80,6 +79,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
